@@ -1,6 +1,6 @@
 {
   "name": "devnagri-numerals",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "It make possible to convert Arabic numerals to devnagri numerals and vice-versa.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
