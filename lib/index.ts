@@ -2,7 +2,7 @@ type dictType = {
     [key: string]: string
 }
 
-export const arabicTodevnagriDictionary: dictType = {
+const arabicTodevnagriDictionary: dictType = {
     '0': '०',
     '1': '१',
     '2': '२',
@@ -15,7 +15,7 @@ export const arabicTodevnagriDictionary: dictType = {
     '9': '९'
 }
 
-export const devnagriToArabicDictionary: dictType = {
+const devnagriToArabicDictionary: dictType = {
     '०': '0',
     '१': '1',
     '२': '2',
