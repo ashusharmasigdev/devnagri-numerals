@@ -1,0 +1,10 @@
+{
+  "name": "devnagri-numerals",
+  "version": "1.0.0",
+  "description": "It make possible to convert Arabic numerals to devnagri numerals and vice-versa.",
+  "main": "index.js",
+  "repository": "https://github.com/ashusharmasigdev/devnagri-numerals",
+  "author": "Ashu Sharma <ashusharma.sigmadev@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
