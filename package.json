@@ -8,6 +8,15 @@
     "build": "tsc",
     "test": "mocha --reporter spec"
   },
+  "keywords": [
+    "hindi",
+    "indian",
+    "nepali",
+    "devnagri",
+    "numerals",
+    "arabic numerals",
+    "devnagri numerals"
+  ],
   "repository": "https://github.com/ashusharmasigdev/devnagri-numerals",
   "author": "Ashu Sharma <ashusharma.sigmadev@gmail.com>",
   "license": "MIT",
